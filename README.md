@@ -6,3 +6,8 @@ Intended for 25mm PIR insulation as the porthole relies on the compressive streg
 The panel spacers will be fine printed out of ABS. Print the inner porthole out of something that can withstand your intended chamber temps.
 
 Hinges and closures are up to you.
+
+
+
+
+![20250929_085735](https://github.com/user-attachments/assets/e09ccbc9-0412-4f5a-9477-8bad2ade8818)
